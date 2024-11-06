@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./Register.css";
-import user_icon from "../assets/person.png"
-import email_icon from "../assets/email.png"
-import password_icon from "../assets/password.png"
+import user_icon from "../assets/person.gif"
+import email_icon from "../assets/email.gif"
+import password_icon from "../assets/password.gif"
 import close_icon from "../assets/close.png"
 
 const Register = () => {
